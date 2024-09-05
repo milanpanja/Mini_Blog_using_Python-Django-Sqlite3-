@@ -1,1 +1,1 @@
-# Mini_Blog_using_Python-Django-Sqlite3-
+# Mini_Blog[Python-Django-Sqlite3]
